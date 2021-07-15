@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Basic projects/.idea/Basic projects.iml" filepath="$USER_HOME$/PycharmProjects/Basic projects/.idea/Basic projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MLAppCarDekho/.idea/MLAppCarDekho.iml" filepath="$PROJECT_DIR$/../../MLAppCarDekho/.idea/MLAppCarDekho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/folium maps.iml" filepath="$PROJECT_DIR$/.idea/folium maps.iml" />
+    </modules>
+  </component>
+</project>
